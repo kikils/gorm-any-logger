@@ -3,6 +3,7 @@
 `gorm-any-logger` is a logger for Gorm that supports any logger.
 
 ![](https://github.com/kikils/gorm-any-logger/actions/workflows/test.yaml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kikils/gorm-any-logger)](https://goreportcard.com/report/github.com/kikils/gorm-any-logger)
 
 ## Installation
 
